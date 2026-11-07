@@ -98,4 +98,4 @@ The goal was to build a clean, reproducible pipeline and an executive-style dash
 
 ## Author
 
-**Omar Saad** · Commerce student (Faculty of Commerce, Assiut University) learning data analytics
+**Omar Saad** 
